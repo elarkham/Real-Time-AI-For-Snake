@@ -1,0 +1,14 @@
+{
+  "score": 100,
+  "grid_h": 10,
+  "grid_w": 10,
+  "board_area": 100,
+  "board_ratio": 1,
+  "avg_actions_per_apple": 24.21,
+  "avg_timeouts_per_apple": 0,
+  "game_duration": 40645032801,
+  "avg_apple_time": 406000000,
+  "player": "hamilton",
+  "seed": 3,
+  "win": true
+  }

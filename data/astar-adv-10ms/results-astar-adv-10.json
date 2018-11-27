@@ -1,0 +1,14 @@
+{
+  "score": 23,
+  "grid_h": 10,
+  "grid_w": 10,
+  "board_area": 100,
+  "board_ratio": 0.23,
+  "avg_actions_per_apple": 6.739130434782608,
+  "avg_timeouts_per_apple": 0,
+  "game_duration": 2881410471,
+  "avg_apple_time": 125000000,
+  "player": "astar-adv",
+  "seed": 10,
+  "win": false
+  }
